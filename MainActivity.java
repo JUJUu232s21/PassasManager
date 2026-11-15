@@ -1,5 +1,3 @@
-package semyon.android.studio.semyon_pass;
-
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.SharedPreferences;
